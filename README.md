@@ -3,7 +3,7 @@
 
 - 🤝 I’m currently working at **Tata Consultancy Services**
 
-- 🌱 I've worked on **DSA skills, Full-Stack web developments, Architecting software using AWS services from scratch, and other web technologies**
+- 🌱 I am good at  **DSA skills, Full-Stack web developments, Architecting software using AWS services from scratch, and other web technologies**
 
 - 👯 I’m interested for a **Full-Stack Developer job**
 
