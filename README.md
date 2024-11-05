@@ -7,13 +7,13 @@
 
 - 👯 I’m interested for a **Full-Stack Developer job**
 
-- 💬 Ask me about **software developemnt related factors**
+- 💬 Ask me about **software developemnt related facts**
 
 - 📫 How to reach me **chak.sandipan22@gmail.com**
 
 - 📄 Know more about my technical experiences from my [resume](https://1drv.ms/w/c/69e89b7ff08fa5e2/EeKlj_B_m-gggGlUAgAAAAABUEWcXy6y8Tp727uExK9Nzw?e=qsDDuw)
 
-- ⚡ Fun fact **My hobby is software development, like my profession.😎**
+- ⚡ Fun fact: **My hobby is software development, like my profession.😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
