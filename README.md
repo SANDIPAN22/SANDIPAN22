@@ -3,7 +3,7 @@
 
 - 🤝 I’m currently working at **Tata Consultancy Services**
 
-- 🌱 I've worked on **DSA skills, Full-Stack web developments, Architecting softwares using AWS services from scratch and other web technologies**
+- 🌱 I've worked on **DSA skills, Full-Stack web developments, Architecting software using AWS services from scratch, and other web technologies**
 
 - 👯 I’m interested for a **Full-Stack Developer job**
 
@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **chak.sandipan22@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/s!AuKlj_B_m-hphFSXDRsvj8Ucd3eL?e=LQ2rxK](https://1drv.ms/w/s!AuKlj_B_m-hphFSXDRsvj8Ucd3eL?e=LQ2rxK)
+- 📄 Know about my experiences [https://1drv.ms/w/c/69e89b7ff08fa5e2/EeKlj_B_m-gggGlUAgAAAAABUEWcXy6y8Tp727uExK9Nzw?e=qsDDuw])
 
-- ⚡ Fun fact **My hobby is also software development, same as my profession.😎**
+- ⚡ Fun fact **My hobby is software development, like my profession.😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
