@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chak.sandipan22@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/69e89b7ff08fa5e2/EeKlj_B_m-gggGlUAgAAAAABUEWcXy6y8Tp727uExK9Nzw?e=qsDDuw])
+- 📄 Know more about my technical experiences from my [resume](https://1drv.ms/w/c/69e89b7ff08fa5e2/EeKlj_B_m-gggGlUAgAAAAABUEWcXy6y8Tp727uExK9Nzw?e=qsDDuw)
 
 - ⚡ Fun fact **My hobby is software development, like my profession.😎**
 
